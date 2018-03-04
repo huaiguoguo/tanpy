@@ -1,0 +1,11 @@
+*.iml
+
+# phpstorm project files
+.idea
+
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+node_modules
+venv
